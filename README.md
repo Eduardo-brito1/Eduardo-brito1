@@ -1,4 +1,4 @@
-### Ola, Me chamo Eduardo Brito, Tenho 20 anos, atualmente estou fazendo faculdade de engenharia da computação, E estou estudando no cursinho da Cubos academy para desenvolvedor Fullstack, estou apredendo bastante, mas a área que mais  gosto e Back-End 👋
+### Ola, me chamo Eduardo Brito, Tenho 20 anos, atualmente estou fazendo faculdade de engenharia da computação. E estou estudando no cursinho da Cubos academy para desenvolvedor Fullstack. Estou apredendo bastante, mas a área que mais  gosto e Back-End. 👋
 
 <div align="center">
   <a href="https://github.com/Eduardo-brito1">
