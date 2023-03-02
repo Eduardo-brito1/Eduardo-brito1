@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
- atualmente estou fazendo faculdade de engenharia da computação e também estou fazendo o curso da Cubos academy de desenvolvedor Fullstack. Estou apredendo bastante, mas a stack que mais gosto e Back-End. 👋
+ atualmente estou fazendo faculdade de engenharia da computação e também estou fazendo o curso da Cubos academy de desenvolvedor Fullstack. Estou apredendo bastante, mas a stack que mais gosto e Back-End.
   </p>
 </div>
 
